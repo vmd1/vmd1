@@ -6,4 +6,5 @@
 - 💬 Ask me about pretty much anything to do with Python and Linux commands
 - ⚡ Fun fact: I love coding. (Not really anything unexpected!)
 
-#### My Github Stats
+![v-mod's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-mod&hide=contribs,prs)
+
