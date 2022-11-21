@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love coding. (Not really anything unexpected!)
 
 #### My Github Stats
-![v-mod's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-mod&hide=contribs,prs) /n
+![v-mod's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-mod&hide=contribs,prs) \n
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-mod&layout=compact)
 
 
