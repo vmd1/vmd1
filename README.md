@@ -1,10 +1,9 @@
 [![Name](https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=00dab9&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=177C72&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
 - Python scripting
 - Building a voice assistant powered by whatever I can find out there
-- A custom command proccessor for my laptop (Powered by Powershell and Ubuntu)
+- A custom command processor for my laptop (Powered by PowerShell and Ubuntu)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=8CDA80&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 <br>
@@ -15,6 +14,7 @@
 <br>
 ![U2204](https://img.shields.io/badge/OS-Ubuntu%2022.04-orange?style=flat-square&logo=ubuntu)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
+![Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=debian)
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 <hr>
 
@@ -27,6 +27,33 @@
 - Javascript
 - C++
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Self-Hosting+Setup%3A)](https://git.io/typing-svg)
+- Hosting various services including **Nextcloud**, **Home Assistant**, **Jellyfin**, **and more**.
+- Using **Docker** for containerization and security, planning to transition to **Docker Swarm**.
+- Leveraging **Authelia** for securing applications and **Tailscale** for user access.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=LDAP+Setup%3A)](https://git.io/typing-svg)
+- Implemented **LDAP** for centralized authentication across self-hosted applications.
+- Currently exploring the **LLDAP** project to streamline authentication.
+- Integrated LDAP with **Home Assistant** for seamless access management.
+- Ensured security and access control for services using **Authelia** in conjunction with LDAP.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=UniFi+Setup%3A)](https://git.io/typing-svg)
+- Utilizing **UniFi U7 Pro** devices as Wi-Fi access points with a **TP-Link gigabit PoE switch** for network connectivity.
+- Optimized for a gigabit connection at home, ensuring reliable and fast internet access.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Device+Customization+%26+Flashing%3A)](https://git.io/typing-svg)
+- **Triple booting** my laptop with **Ubuntu**, **Windows 11**, and **Debian** for diverse development environments.
+- Flashing old phones with newer Android builds to extend their lifespan.
+- Cleaning up Fire tablets to optimize performance for better use.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Home+Assistant%3A)](https://git.io/typing-svg)
+- Utilizing **Home Assistant** for smart home automation and management.
+- Adopting a **modular configuration approach** to simplify setup and maintenance.
+- Using a **Fire tablet** as a dedicated home dashboard for easy control of devices and monitoring.
+- Integrating various devices and services for a seamless user experience.
+- Implementing custom automations to enhance functionality and control over home environments.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Backup+Strategy%3A)](https://git.io/typing-svg)
+- Utilizing a **Raspberry Pi 2** for managing on-site backups.
+- Off-site backups with **Oracle block storage** (50GB free tier) for configuration/data.
