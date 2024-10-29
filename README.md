@@ -10,6 +10,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=v-mod&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-mod)
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=72BAB6&pause=1000&width=435&lines=OS+%26+Tools%3A)](https://git.io/typing-svg)
 <br>
 ![U2204](https://img.shields.io/badge/OS-Ubuntu%2022.04-orange?style=flat-square&logo=ubuntu)
@@ -17,6 +19,8 @@
 ![Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=debian)
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 <hr>
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Programming+Languages%3A)](https://git.io/typing-svg)
 ###### Proficient:
@@ -27,10 +31,14 @@
 - Javascript
 - C++
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Self-Hosting+Setup%3A)](https://git.io/typing-svg)
 - Hosting various services including **Nextcloud**, **Home Assistant**, **Jellyfin**, **and more**.
 - Using **Docker** for containerization and security, planning to transition to **Docker Swarm**.
 - Leveraging **Authelia** for securing applications and **Tailscale** for user access.
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=LDAP+Setup%3A)](https://git.io/typing-svg)
 - Implemented **LDAP** for centralized authentication across self-hosted applications.
@@ -38,14 +46,20 @@
 - Integrated LDAP with **Home Assistant** for seamless access management.
 - Ensured security and access control for services using **Authelia** in conjunction with LDAP.
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=UniFi+Setup%3A)](https://git.io/typing-svg)
 - Utilizing **UniFi U7 Pro** devices as Wi-Fi access points with a **TP-Link gigabit PoE switch** for network connectivity.
 - Optimized for a gigabit connection at home, ensuring reliable and fast internet access.
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Device+Customization+%26+Flashing%3A)](https://git.io/typing-svg)
 - **Triple booting** my laptop with **Ubuntu**, **Windows 11**, and **Debian** for diverse development environments.
 - Flashing old phones with newer Android builds to extend their lifespan.
 - Cleaning up Fire tablets to optimize performance for better use.
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Home+Assistant%3A)](https://git.io/typing-svg)
 - Utilizing **Home Assistant** for smart home automation and management.
@@ -54,6 +68,9 @@
 - Integrating various devices and services for a seamless user experience.
 - Implementing custom automations to enhance functionality and control over home environments.
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Backup+Strategy%3A)](https://git.io/typing-svg)
 - Utilizing a **Raspberry Pi 2** for managing on-site backups.
 - Off-site backups with **Oracle block storage** (50GB free tier) for configuration/data.
+
