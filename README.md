@@ -1,5 +1,7 @@
 [![Name](https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=00dab9&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
+Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about my passion for coding and computers!
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=177C72&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
 - Python scripting
 - Building a voice assistant powered by whatever I can find out there
@@ -73,4 +75,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Backup+Strategy%3A)](https://git.io/typing-svg)
 - Utilizing a **Raspberry Pi 2** for managing on-site backups.
 - Off-site backups with **Oracle block storage** (50GB free tier) for configuration/data.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=My+Self-hosted+Dashboard%3A)](https://git.io/typing-svg)
+
 
