@@ -11,11 +11,12 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=8CDA80&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=v-mod&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-mod)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-mod)
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=72BAB6&pause=1000&width=435&lines=OS+%26+Tools%3A)](https://git.io/typing-svg)
+<br>
 ![U2204](https://img.shields.io/badge/OS-Ubuntu%2022.04-orange?style=flat-square&logo=ubuntu)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
 ![Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=debian)
