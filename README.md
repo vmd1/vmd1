@@ -6,6 +6,8 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 - Python scripting
 - Building a voice assistant powered by whatever I can find out there
 - A custom command processor for my laptop (Powered by PowerShell and Ubuntu)
+- An ssh bastion server for my home server setup that can run in docker on arm
+- A whatsapp group chat summariser and mod tools
 
 <br>
 
