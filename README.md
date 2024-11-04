@@ -3,7 +3,6 @@
 Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about my passion for coding and computers!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=177C72&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
-- Python scripting
 - Building a voice assistant powered by whatever I can find out there
 - A custom command processor for my laptop (Powered by PowerShell and Ubuntu)
 - An ssh bastion server for my home server setup that can run in docker on arm
