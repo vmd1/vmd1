@@ -11,8 +11,8 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=8CDA80&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=v-mod&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-mod)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vmd1&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmd1)
 
 <br>
 
