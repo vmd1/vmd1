@@ -74,12 +74,6 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=Backup+Strategy%3A)](https://git.io/typing-svg)
-- Utilizing a **Raspberry Pi 2** for managing on-site backups.
-- Off-site backups with **Oracle block storage** (50GB free tier) for configuration/data.
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=72BAB6&width=435&lines=My+Self-hosted+Dashboard%3A)](https://git.io/typing-svg)
 
 ![image](https://github.com/user-attachments/assets/fec2ad0d-4ee1-45df-a89c-13fce47e73fd)
