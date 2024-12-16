@@ -33,6 +33,7 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 - Bash
 - Javascript
 - C++
+- React
 
 <br>
 
