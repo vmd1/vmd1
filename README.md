@@ -58,24 +58,32 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=D35400&width=435&lines=Self-Hosting+Setup%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=D35400&width=435&lines=Home+Infrastructure%3A)](https://git.io/typing-svg)
+###### Self-hosting
 - Hosting various services including **Nextcloud**, **Home Assistant**, **Jellyfin**, **and more**.
 - Using **Docker** for containerization and security.
 - Leveraging **Authelia** for securing applications and **Tailscale** for user access.
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=16A085&width=435&lines=LDAP+Setup%3A)](https://git.io/typing-svg)
+###### Ldap Setup
 - Implemented **LDAP** for centralized authentication across self-hosted applications.
 - Currently exploring the **LLDAP** project to streamline authentication.
 - Integrated LDAP with **Home Assistant** for seamless access management.
 - Ensured security and access control for services using **Authelia** in conjunction with LDAP.
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=1ABC9C&width=435&lines=UniFi+Setup%3A)](https://git.io/typing-svg)
+###### Networking Setup
 - Utilizing **UniFi U7 Pro** devices as Wi-Fi access points with a **TP-Link gigabit PoE switch** for network connectivity.
 - Optimized for a gigabit connection at home, ensuring reliable and fast internet access.
+
+###### Home Assistant
+- Utilizing **Home Assistant** for smart home automation and management.
+- Adopting a **modular configuration approach** to simplify setup and maintenance.
+- Using a **Fire tablet** as a dedicated home dashboard for easy control of devices and monitoring.
+- Integrating various devices and services for a seamless user experience.
+- Implementing custom automations to enhance functionality and control over home environments.
+
+##### Dashboard
+- Utilisting **GetHomepage.dev** as a dashboard for all my self-hosted services
+- Uses widgets to monitor all infrastructure at a glance
 
 <br>
 
@@ -87,11 +95,7 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=2980B9&width=435&lines=Home+Assistant%3A)](https://git.io/typing-svg)
-- Utilizing **Home Assistant** for smart home automation and management.
-- Adopting a **modular configuration approach** to simplify setup and maintenance.
-- Using a **Fire tablet** as a dedicated home dashboard for easy control of devices and monitoring.
-- Integrating various devices and services for a seamless user experience.
-- Implementing custom automations to enhance functionality and control over home environments.
+
 
 <br>
 
