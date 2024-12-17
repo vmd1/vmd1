@@ -37,6 +37,27 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=F1C40F&width=435&lines=My+Projects%3A)](https://git.io/typing-svg)
+###### Backend Development/Python
+- https://github.com/vmd1/Aria-Complete
+- https://github.com/vmd1/TermClient
+- https://github.com/vmd1/My-Top-Projects
+
+###### Frontend Develpement/HTML + CSS
+- https://github.com/vmd1/My-Top-Projects/tree/main/WebSites
+- https://github.com/vmd1/web-base
+- https://github.com/vmd1/housepoints
+
+###### Application Deployments/Docker + Docker Swarm
+- https://github.com/vmd1/home-compose
+- https://github.com/vmd1/new-server-provision
+- https://github.com/vmd1/hass-config
+- https://github.com/vmd1/authelia-config
+- https://github.com/vmd1/homepage-config
+
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=D35400&width=435&lines=Self-Hosting+Setup%3A)](https://git.io/typing-svg)
 - Hosting various services including **Nextcloud**, **Home Assistant**, **Jellyfin**, **and more**.
 - Using **Docker** for containerization and security, planning to transition to **Docker Swarm**.
