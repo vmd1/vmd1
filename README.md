@@ -94,11 +94,6 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=2980B9&width=435&lines=Home+Assistant%3A)](https://git.io/typing-svg)
-
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=F1C40F&width=435&lines=My+Self-hosted+Dashboard%3A)](https://git.io/typing-svg)
 
 ![image](https://github.com/user-attachments/assets/fec2ad0d-4ee1-45df-a89c-13fce47e73fd)
