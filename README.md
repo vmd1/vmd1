@@ -43,7 +43,7 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 - https://github.com/vmd1/TermClient
 - https://github.com/vmd1/My-Top-Projects
 
-###### Frontend Develpement/HTML + CSS
+###### Frontend Developement/HTML + CSS
 - https://github.com/vmd1/My-Top-Projects/tree/main/WebSites
 - https://github.com/vmd1/web-base
 - https://github.com/vmd1/housepoints
