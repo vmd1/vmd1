@@ -60,7 +60,7 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=D35400&width=435&lines=Self-Hosting+Setup%3A)](https://git.io/typing-svg)
 - Hosting various services including **Nextcloud**, **Home Assistant**, **Jellyfin**, **and more**.
-- Using **Docker** for containerization and security, planning to transition to **Docker Swarm**.
+- Using **Docker** for containerization and security.
 - Leveraging **Authelia** for securing applications and **Tailscale** for user access.
 
 <br>
