@@ -81,7 +81,7 @@ Hi there!, I'm v-mod 👋. Nice to meet you! Read below to find out more about m
 - Integrating various devices and services for a seamless user experience.
 - Implementing custom automations to enhance functionality and control over home environments.
 
-##### Dashboard
+###### Dashboard
 - Utilisting **GetHomepage.dev** as a dashboard for all my self-hosted services
 - Uses widgets to monitor all infrastructure at a glance
 
