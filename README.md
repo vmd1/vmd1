@@ -1,6 +1,7 @@
-[![Name](https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=FF5733&width=435&lines=Hi+there!)](https://git.io/typing-svg)
-
-Hey there, I'm v-mod👋. Nice to meet you! Read below to find out more about my passion for coding and computers!
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=FF5733&width=435&lines=Hi+there!"><br />
+    Hey there, I'm v-mod👋. Nice to meet you! Read below to find out more about my passion for coding and computers!
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=F39C12&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
 - Building a voice assistant powered by whatever I can find out there
@@ -61,37 +62,32 @@ Hey there, I'm v-mod👋. Nice to meet you! Read below to find out more about my
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=D35400&width=435&lines=Home+Infrastructure%3A)](https://git.io/typing-svg)
 ###### Self-hosting
-- Hosting various services including **Nextcloud**, **Home Assistant**, **Jellyfin**, **and more**.
-- Using **Docker** for containerization and security.
-- Leveraging **Authelia** for securing applications and **Tailscale** for user access.
+- Using a Raspberry Pi 5 and a Raspberry Pi 3 (For DNS and other critical service fallbacks).
+- Hosting applications such as Home Assistant, Unifi Controller and other key tools.
+- Using NGINX Proxy Manager + Authelia for managing access to external services, and Tailscale for internal access
 
 ###### Ldap Setup
-- Implemented **LDAP** for centralized authentication across self-hosted applications.
-- Currently exploring the **LLDAP** project to streamline authentication.
-- Integrated LDAP with **Home Assistant** for seamless access management.
-- Ensured security and access control for services using **Authelia** in conjunction with LDAP.
+- Using Ldap for a centralised authentication platform.
+- For most supported services, secured behind Authelia, or own login screen with ldap users.
+- Syncing LDAP users to Linux servers via nslcd.
+- Powered by LLDAP.
 
 ###### Networking Setup
-- Utilizing **UniFi U7 Pro** devices as Wi-Fi access points with a **TP-Link gigabit PoE switch** for network connectivity.
-- Optimized for a gigabit connection at home, ensuring reliable and fast internet access.
+- Using Unifi U7 Pro access points for WiFi, and working to integrate custom VLANs for security
+- Self-hosting DNS server for speed and privacy
+- Planning to self-host DHCP
 
 ###### Home Assistant
-- Utilizing **Home Assistant** for smart home automation and management.
-- Adopting a **modular configuration approach** to simplify setup and maintenance.
-- Using a **Fire tablet** as a dedicated home dashboard for easy control of devices and monitoring.
+- Utilizing Home Assistant for smart home automation and management.
+- Adopting a modular configuration approach to simplify setup and maintenance.
+- Using a Fire tablet as a dedicated home dashboard for easy control of devices and monitoring.
 - Integrating various devices and services for a seamless user experience.
 - Implementing custom automations to enhance functionality and control over home environments.
 
 ###### Dashboard
-- Utilisting **GetHomepage.dev** as a dashboard for all my self-hosted services
+- Utilisting GetHomepage.dev as a dashboard for all my self-hosted services
 - Uses widgets to monitor all infrastructure at a glance
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=E74C3C&width=435&lines=Device+Customization+%26+Flashing%3A)](https://git.io/typing-svg)
-- **Triple booting** my laptop with **Ubuntu**, **Windows 11**, and **Debian** for diverse development environments.
-- Flashing old phones with newer Android builds to extend their lifespan.
-- Cleaning up Fire tablets to optimize performance for better use.
+- See below for an image.
 
 <br>
 
