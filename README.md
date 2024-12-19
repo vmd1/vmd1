@@ -13,21 +13,6 @@ Oh, hi there👋. Read below to find out more about my passion for coding and co
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=27AE60&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=vmd1&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmd1)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=3498DB&pause=1000&width=435&lines=OS+%26+Tools%3A)](https://git.io/typing-svg)
-<br>
-![U2204](https://img.shields.io/badge/OS-Ubuntu%2022.04-orange?style=flat-square&logo=ubuntu)
-![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
-![Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=debian)
-![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=9B59B6&width=435&lines=Programming+Languages%3A)](https://git.io/typing-svg)
 ###### Proficient:
 - Python
@@ -58,6 +43,20 @@ Oh, hi there👋. Read below to find out more about my passion for coding and co
 - https://github.com/vmd1/authelia-config
 - https://github.com/vmd1/homepage-config
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=27AE60&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vmd1&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmd1)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=3498DB&pause=1000&width=435&lines=OS+%26+Tools%3A)](https://git.io/typing-svg)
+<br>
+![U2204](https://img.shields.io/badge/OS-Ubuntu%2022.04-orange?style=flat-square&logo=ubuntu)
+![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
+![Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=debian)
+![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 
 <br>
 
