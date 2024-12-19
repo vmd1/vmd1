@@ -1,7 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=FF5733&width=435&lines=Hi+there!"><br />
-    Hey there, I'm v-mod👋. Nice to meet you! Read below to find out more about my passion for coding and computers!
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=FF5733&width=435&lines=Hey+there!"><br />
+    I'm v-mod👋. Nice to meet you! 
 </h1>
+
+Read below to find out more about my passion for coding and computers!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=F39C12&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
 - Building a voice assistant powered by whatever I can find out there
