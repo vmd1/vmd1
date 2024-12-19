@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=FF5733&width=435&lines=Hey+there!"><br />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=FF5733&width=435&lines=Hey+there!+I'm+v-mod.+Nice+to+meet+you!"><br />
     I'm v-mod👋. Nice to meet you! 
 </h1>
 
