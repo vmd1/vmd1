@@ -10,6 +10,7 @@ Oh, hi there👋. Read below to find out more about my passion for coding and co
 - A WhatsApp group chat summariser and mod tools
 - Self hosting services to reduce reliancy on the cloud
 - Learning Kubernetes
+- Making a microblog in flask (python)
 
 <br>
 
