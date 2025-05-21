@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=2000&color=FF5733&width=435&lines=Hey+there!+I'm+v-mod."><br />
 </h1>
 
-Oh, hi there👋. Read below to find out more about my passion for coding and computers!
+Oh, hi there👋. Read below to find out more about my passion for coding and computers! Or... head to my blog at https://byte.848226.xyz/
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=F39C12&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
 - Building a voice assistant powered by whatever I can find out there
