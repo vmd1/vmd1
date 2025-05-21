@@ -60,39 +60,3 @@ Oh, hi there👋. Read below to find out more about my passion for coding and co
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=D35400&width=435&lines=Home+Infrastructure%3A)](https://git.io/typing-svg)
-###### Self-hosting
-- Using a Raspberry Pi 5 and a Raspberry Pi 3 (For DNS and other critical service fallbacks).
-- Hosting applications such as Home Assistant, Unifi Controller and other key tools.
-- Using NGINX Proxy Manager + Authelia for managing access to external services, and Tailscale for internal access
-
-###### Ldap Setup
-- Using Ldap for a centralised authentication platform.
-- For most supported services, secured behind Authelia, or own login screen with ldap users.
-- Syncing LDAP users to Linux servers via nslcd.
-- Powered by LLDAP.
-
-###### Networking Setup
-- Using Unifi U7 Pro access points for WiFi, and working to integrate custom VLANs for security
-- Self-hosting DNS server for speed and privacy
-- Planning to self-host DHCP
-
-###### Home Assistant
-- Utilizing Home Assistant for smart home automation and management.
-- Adopting a modular configuration approach to simplify setup and maintenance.
-- Using a Fire tablet as a dedicated home dashboard for easy control of devices and monitoring.
-- Integrating various devices and services for a seamless user experience.
-- Implementing custom automations to enhance functionality and control over home environments.
-
-###### Dashboard
-- Utilisting GetHomepage.dev as a dashboard for all my self-hosted services
-- Uses widgets to monitor all infrastructure at a glance
-- See below for an image.
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=F1C40F&width=435&lines=My+Self-hosted+Dashboard%3A)](https://git.io/typing-svg)
-
-![image](https://github.com/user-attachments/assets/fec2ad0d-4ee1-45df-a89c-13fce47e73fd)
-![image](https://github.com/user-attachments/assets/cf612fc9-70a0-4502-a691-68a427ff9e56)
