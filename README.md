@@ -4,16 +4,6 @@
 
 Oh, hi there👋. Read below to find out more about my passion for coding and computers! Or... head to my blog at [https://init0.848226.xyz/](https://init0.848226.xyz/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=F39C12&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
-- Building a voice assistant powered by whatever I can find out there
-- A custom command processor for my laptop (Powered by PowerShell and Ubuntu)
-- A WhatsApp group chat summariser and mod tools
-- Self hosting services to reduce reliancy on the cloud
-- Learning Kubernetes
-- Making a microblog in flask (python)
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=9B59B6&width=435&lines=Programming+Languages%3A)](https://git.io/typing-svg)
 ###### Proficient:
 - Python
@@ -40,9 +30,6 @@ Oh, hi there👋. Read below to find out more about my passion for coding and co
 ###### Application Deployments/Docker + Docker Swarm
 - https://github.com/vmd1/home-compose
 - https://github.com/vmd1/new-server-provision
-- https://github.com/vmd1/hass-config
-- https://github.com/vmd1/authelia-config
-- https://github.com/vmd1/homepage-config
 
 <br>
 
