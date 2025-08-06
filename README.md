@@ -7,8 +7,6 @@
   You can check out my blog over at 👉 <a href="https://init0.848226.xyz/">init0.848226.xyz</a>
 </p>
 
----
-
 ## 💻 Programming Languages
 
 **Proficient in:**  
@@ -17,8 +15,6 @@
 
 **Currently learning:**  
 🛠️ Bash, JavaScript, C++, React
-
----
 
 ## 🧠 Notable Projects
 
@@ -36,14 +32,10 @@
 - [Home Compose Stack](https://github.com/vmd1/home-compose)  
 - [New Server Provisioning](https://github.com/vmd1/new-server-provision)
 
----
-
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vmd1&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmd1&layout=compact&theme=gruvbox)
-
----
 
 ## 🛠️ Operating Systems & Tools
 
