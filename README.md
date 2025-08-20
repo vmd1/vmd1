@@ -1,5 +1,7 @@
+
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&theme=tokyonight&text=Hey%20there!&section=header&descSize=20&descAlign=50&descAlignY=67&textBg=false&animation=twinkling&reversal=false"><br />
+  <img src="top.png" style="display: block; margin-bottom: 0;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&theme=tokyonight&text=Hey%20there!&section=header&descSize=20&descAlign=50&descAlignY=67&textBg=false&animation=twinkling&reversal=false" style="display: block; margin-top: 0;" />
 </h1>
 
 <p align="center">
