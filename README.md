@@ -161,3 +161,8 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vmd1&theme=tokyo-night&area=false&hide_border=true" border-radius="15">
 </div>
+
+<h2 align="center">♫ Currently vibing to... ♫</h2>
+<div align="center">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1sl4s67zya5ybt44exyu5y127&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" border-radius="15">
+</div>
