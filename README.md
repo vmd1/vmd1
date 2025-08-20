@@ -7,59 +7,54 @@
   You can check out my blog over at 👉 <a href="https://init0.848226.xyz/">init0.848226.xyz</a>
 </p>
 
-<!-- SKILLS -->
 
-<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use</h3>
-
-<h4 align="center">IDEs</h4>
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="IDEs" />
-  </a>
-</div>
-
-<h4 align="center">Operating Systems</h4>
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu&theme=dark" alt="Devops & Productivity" />
-  </a>
-</div>
-
-<h4 align="center">DevOps & Productivity</h4>
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github,git,notion,postman,docker&theme=dark" alt="Devops & Productivity" />
-  </a>
-</div>
-
-<h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main skills</h3>
-
-<h4 align="center">Front-end</h4>
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Front-end" />
-  </a>
-</div>
-
-<h4 align="center">Back-end</h4>
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" alt="Back-end" />
-  </a>
-</div>
-
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,c&theme=dark" alt="Studying for now" />
-  </a>
-</div>
+<!-- SKILLS & MAIN SKILLS TWO COLUMN LAYOUT -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use</h3>
+      <h4 align="center">IDEs</h4>
+      <div align="center">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="IDEs" />
+        </a>
+      </div>
+      <h4 align="center">Operating Systems</h4>
+      <div align="center">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu&theme=dark" alt="Devops & Productivity" />
+        </a>
+      </div>
+      <h4 align="center">DevOps & Productivity</h4>
+      <div align="center">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=github,git,notion,postman,docker&theme=dark" alt="Devops & Productivity" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main skills</h3>
+      <h4 align="center">Front-end</h4>
+      <div align="center">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Front-end" />
+        </a>
+      </div>
+      <h4 align="center">Back-end</h4>
+      <div align="center">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" alt="Back-end" />
+        </a>
+      </div>
+      <h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
+      <div align="center">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=react,c&theme=dark" alt="Studying for now" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
