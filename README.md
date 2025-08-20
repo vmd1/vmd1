@@ -65,9 +65,9 @@
 
 ## 🧠 Notable Projects
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="33%" align="center" style="border: none;">
       <h4>🔙 Backend (Python)</h4>
       <a href="https://github.com/vmd1/Aria-Complete">
     <img align="center" style="width:90%;max-width:470px;" src="https://github-readme-stats.vercel.app/api/pin/?username=vmd1&repo=Aria-Complete&theme=tokyonight&show_owner=true&hide_border=true&no-frame=true" alt="Aria - Voice Assistant" />
@@ -78,8 +78,8 @@
       <a href="https://github.com/vmd1/My-Top-Projects">
     <img align="center" style="width:90%;max-width:470px;" src="https://github-readme-stats.vercel.app/api/pin/?username=vmd1&repo=My-Top-Projects&theme=tokyonight&show_owner=true&hide_border=true&no-frame=true" alt="My Top Projects" />
       </a>
-    </td>
-    <td width="33%" align="center">
+  </td>
+  <td width="33%" align="center" style="border: none;">
       <h4>🌐 Frontend (HTML/CSS)</h4>
       <a href="https://github.com/vmd1/My-Top-Projects/tree/main/WebSites">
     <img align="center" style="width:90%;max-width:470px;" src="https://github-readme-stats.vercel.app/api/pin/?username=vmd1&repo=My-Top-Projects&theme=tokyonight&show_owner=true&hide_border=true&no-frame=true" alt="Static Sites" />
@@ -90,8 +90,8 @@
       <a href="https://github.com/vmd1/housepoints">
     <img align="center" style="width:90%;max-width:470px;" src="https://github-readme-stats.vercel.app/api/pin/?username=vmd1&repo=housepoints&theme=tokyonight&show_owner=true&hide_border=true&no-frame=true" alt="HousePoints" />
       </a>
-    </td>
-    <td width="33%" align="center">
+  </td>
+  <td width="33%" align="center" style="border: none;">
       <h4>🐳 Docker & Deployments</h4>
       <a href="https://github.com/vmd1/home-compose">
     <img align="center" style="width:90%;max-width:470px;" src="https://github-readme-stats.vercel.app/api/pin/?username=vmd1&repo=home-compose&theme=tokyonight&show_owner=true&hide_border=true&no-frame=true" alt="Home Compose Stack" />
@@ -122,17 +122,17 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/vmd1">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=vmd1&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&no-frame=true" alt="GitHub Stats" />
         </a>
       </p>
-    </td>
-    <td width="50%">
+  </td>
+  <td width="50%" style="border: none;">
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/vmd1">
@@ -141,16 +141,16 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
       <h3 align="center"><strong>My Blog</strong></h3>
       <p align="center">
         <a href="init0.848226.xyz">
             <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=vmd1&repo=init0&theme=tokyonight&show_owner=trueffff&hide_border=true&no-frame=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
-    </td>
-    <td width="50%">
+  </td>
+  <td width="50%" style="border: none;">
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/vmd1">
