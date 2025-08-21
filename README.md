@@ -5,7 +5,7 @@
 
 <p align="center">
   Hi there 👋 I'm Vivaan — passionate about coding, self-hosting, and tech in general.<br>
-  You can check out my blog over at 👉 <a href="https://init0.848226.xyz/">init0.848226.xyz</a>
+  You can check out my blog over at 👉 <a href="https://init0.vmd1.dev/">init0.vmd1.dev</a>
 </p>
 
 
