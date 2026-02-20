@@ -1,0 +1,2 @@
+- Optimising Postgres using PgBouncer to improve performance on my Pi5
+- Looking into self-hosting a fediverse server
