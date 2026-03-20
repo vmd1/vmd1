@@ -1,2 +1,2 @@
-- Optimising Postgres using PgBouncer to improve performance on my Pi5
-- Looking into self-hosting a fediverse server
+- Planning out my semi-private matrix server, which will be hosted using Tuwunel, and considering moving my personal server as well.
+- Looking into GoToSocial to join the fediverse.
