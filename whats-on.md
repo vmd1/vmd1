@@ -1,2 +1,2 @@
-- Planning out my semi-private matrix server, which will be hosted using Tuwunel, and considering moving my personal server as well.
+- Considering the deployment of CrowdSec and Anubis to add extra security layers to my infrastructure.
 - Looking into GoToSocial to join the fediverse.
