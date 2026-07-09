@@ -1,2 +1,2 @@
-- Considering the deployment of CrowdSec and Anubis to add extra security layers to my infrastructure.
-- Looking into GoToSocial to join the fediverse.
+- Migrating my cluster from numerous Docker hosts to k3s
+- Optimising my cluster for scalabilty
