@@ -1,2 +1,2 @@
-- Migrating my cluster from numerous Docker hosts to k3s
-- Optimising my cluster for scalabilty
+- Building Kubernetes operators to allow my cluster to be entirely declarative
+- Working on a simple EdTech platform
