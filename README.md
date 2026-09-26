@@ -33,11 +33,3 @@
     </div>
   </div>
 </div>
-
-<br>
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Contribution Graph 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vmd1&theme=tokyo-night&area=false&hide_border=true" border-radius="15">
-</div>
