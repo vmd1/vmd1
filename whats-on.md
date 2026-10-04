@@ -1,2 +1,3 @@
-- Building Kubernetes operators to allow my cluster to be entirely declarative
-- Working on a simple EdTech platform
+- Building an Android <-> Mac Continuity app
+- Improving vex-tm-tools for upcoming VEX Robotics Competitions
+
