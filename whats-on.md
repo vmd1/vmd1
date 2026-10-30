@@ -1,3 +1,2 @@
 - Building an Android <-> Mac Continuity app
-- Improving vex-tm-tools for upcoming VEX Robotics Competitions
-
+- Building a custom fork of Debian for my edge servers to improve performance and security
